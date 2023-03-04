@@ -19,6 +19,7 @@ If you enjoy this list in this repo and would like to support it, help to contri
 
 # Hardware Research
 - [Car Research](./Car-Research.md)
+- [Coffee Machine Hacking](./coffee-machine-hacking.md)
 - [DMA Attacks](./DMA-Attacks.md)
 - [E-Ink](./e-ink.md)
 - [Espressif](./Espressif.md)
