@@ -6,7 +6,6 @@
 # Hacking
 - [Hacking a cheap LED voltmeter](https://ba0sh1.com/2013/07/26/hacking-a-cheap-led-voltmeter/)
 - [Hacking a Roku TV to Control Lights](https://blog.ammaraskar.com/roku-tv-philips-hues/)
-- [Hacking eInk Price Tags](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
 - [Hacking the NDP Pixmob bands - How I got the LED band to run my code](https://jg.sn.sg/ndp-pixmob-1/)
 
 
@@ -24,7 +23,6 @@
 - [Defeating wireless fixed code systems with just US$23](https://jg.sn.sg/fc-cc/)
 - [DIY Portable Video Conference, Sharing and Teaching Device](https://mcuoneclipse.com/2020/08/07/diy-portable-video-conference-sharing-and-teaching-device/)
 - [Dumping the Sonos One Smart Speaker](https://www.synacktiv.com/en/publications/dumping-the-sonos-one-smart-speaker.html)
-- [E-ink Maiden Bring your Reader to the Reverser](https://www.synacktiv.com/en/publications/e-ink-maiden-bring-your-reader-to-the-reverser.html)
 - [Enter the EFM32 Gecko](https://limitedresults.com/2021/06/enter-the-efm32-gecko/)
 - [Flip-Dot Clock using Used Bus Parts](https://mcuoneclipse.com/2021/06/01/flip-dot-clock-using-used-bus-parts/)
 - [Getting started with the "Chinese" Proxmark3](https://jg.sn.sg/pm3/)
@@ -51,7 +49,6 @@
 - [There oughta be a smart doorbell.](https://there.oughta.be/a/smart-doorbell)
 - [There oughta be a smart garage door.](https://there.oughta.be/a/smart-garage-door)
 - [USB-C done cheap: when 2 ports become 1](https://richardg867.wordpress.com/2020/02/29/usb-c-done-cheap/)
-- [Using eInk display with LPC55S69 and OKdo E1 board](https://mcuoneclipse.com/2020/07/15/using-eink-display-with-lpc55s69-and-okdo-e1-board/)
 - [Using U2F for Door Access Control Systems](https://irq5.io/2021/07/02/using-u2f-for-door-access-control-systems/)
 - [Watch Your Step: Research Into the Concrete Effects of Fault Injection on Processor State via Single-Step Debugging](https://labs.ioactive.com/2021/04/watch-your-step-research-into-concrete.html)
 - [When Athletic Abilities Just Aren't Enough - Scoreboard Hacking Part 1](https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Signal-Analysis-Part-1)
