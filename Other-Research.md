@@ -20,6 +20,8 @@
 
 [Hacking a cheap LED voltmeter](https://ba0sh1.com/2013/07/26/hacking-a-cheap-led-voltmeter/)
 
+[Hacking eInk Price Tags](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
+
 [Hacking the NDP Pixmob bands - How I got the LED band to run my code](https://jg.sn.sg/ndp-pixmob-1/)
 
 [Hardware Investigation of Wireless Keyloggers](https://www.synacktiv.com/en/publications/hardware-investigation-of-wireless-keyloggers.html)
