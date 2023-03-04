@@ -4,6 +4,7 @@
 - [Lexus](#lexus)
 - [Mercedes Benz](#mercedes-benz)
 - [Tesla](#tesla)
+- [Volkswagen](#volkswagen)
 
 
 # Articles
@@ -38,3 +39,10 @@
 - [Is Phone Key Secure? Compromising Keyless Entry for Tesla Model 3](https://fmsh-seclab.github.io/)
 - [NFC Relay Attack on Tesla Model Y](https://labs.ioactive.com/2022/09/nfc-relay-attack-on-tesla-model-y-josep.html)
 - [Tencent Keen Security Lab: Experimental Security Research of Tesla Autopilot](https://keenlab.tencent.com/en/2019/03/29/Tencent-Keen-Security-Lab-Experimental-Security-Research-of-Tesla-Autopilot/)
+
+
+# Volkswagen
+- [Hacking a VW Golf Power Steering ECU - Part 1](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part1/)
+- [Hacking a VW Golf Power Steering ECU - Part 2](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part2/)
+- [Hacking a VW Golf Power Steering ECU - Part 3](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part3/)
+- [Hacking a VW Golf Power Steering ECU - Part 4](https://blog.willemmelching.nl/carhacking/2022/01/02/vw-part4/)
