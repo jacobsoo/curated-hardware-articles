@@ -12,6 +12,8 @@ If you enjoy this list in this repo and would like to support it, help to contri
 
 [DMA Attacks](./DMA-Attacks.md)
 
+[Espressif](./Espressif.md)
+
 [Hardware Teardown](./Hardware-Teardown.md)
 
 [Other Research](./Other-Research.md)
