@@ -8,6 +8,6 @@ If you enjoy this list in this repo and would like to support it, help to contri
 
 ## Hardware Research
 
-[TP-Link Vulnerabilities](./TP-Link Vulnerabilities.md)
+[TP-Link Vulnerabilities](./TP-Link%20Vulnerabilities.md)
 
 [Hardware Teardown](./Hardware-Teardown.md)
