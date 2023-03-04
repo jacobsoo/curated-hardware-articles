@@ -2,6 +2,8 @@
 
 [Controlling my A/C with a Gameboy](https://jg.sn.sg/ir/)
 
+[Custom Firmware for the Xiaomi AX3600 Wireless Router](https://irq5.io/2020/08/10/custom-firmware-for-the-xiaomi-ax3600-wireless-router/)
+
 [Debug Firmware Switching for the LPC4322](https://mcuoneclipse.com/2021/04/05/debug-firmware-switching-for-the-lpc4322/)
 
 [Decapping ICs with Sulphuric Acid](https://jg.sn.sg/decap/)
@@ -42,6 +44,8 @@
 
 [Resurrecting ‘bricked’ NXP Kinetis Devices](https://mcuoneclipse.com/2022/06/16/resurrecting-bricked-nxp-kinetis-devices/)
 
+[Setting Up a Zigbee Sensor Network](https://irq5.io/2022/01/04/setting-up-a-zigbee-sensor-network/)
+
 [Standalone and Command Line Programmer with MCUXpresso](https://mcuoneclipse.com/2020/12/05/standalone-and-command-line-programmer-with-mcuxpresso/)
 
 [Stealing the Bitlocker key from a TPM](https://astralvx.com/stealing-the-bitlocker-key-from-a-tpm/)
@@ -57,3 +61,5 @@
 [There oughta be a smart garage door.](https://there.oughta.be/a/smart-garage-door)
 
 [Using eInk display with LPC55S69 and OKdo E1 board](https://mcuoneclipse.com/2020/07/15/using-eink-display-with-lpc55s69-and-okdo-e1-board/)
+
+[Using U2F for Door Access Control Systems](https://irq5.io/2021/07/02/using-u2f-for-door-access-control-systems/)
