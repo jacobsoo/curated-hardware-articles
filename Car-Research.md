@@ -21,6 +21,7 @@
 
 # BMW
 - [New Vehicle Security Research by KeenLab: Experimental Security Assessment of BMW Cars](https://keenlab.tencent.com/en/2018/05/22/New-CarHacking-Research-by-KeenLab-Experimental-Security-Assessment-of-BMW-Cars/)
+- [Uncovering Unencrypted Car Data in BMW Connected App](https://labs.ioactive.com/2020/09/uncovering-unencrypted-car-data-in-bmw.html)
 
 
 # Lexus
