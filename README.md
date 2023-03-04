@@ -8,8 +8,13 @@ If you enjoy this list in this repo and would like to support it, help to contri
 
 ## Hardware Research
 
-[TP-Link Vulnerabilities](./TP-Link%20Vulnerabilities.md)
+[DMA Attacks](./DMA-Attacks.md)
 
 [Hardware Teardown](./Hardware-Teardown.md)
 
-[DMA Attacks](./DMA-Attacks.md)
+[Other Research](./Other-Research.md)
+
+
+## Vulnerabilities
+
+[TP-Link Vulnerabilities](./TP-Link%20Vulnerabilities.md)
