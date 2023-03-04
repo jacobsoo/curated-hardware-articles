@@ -1,5 +1,15 @@
 # Car Research
 
+[Automotive Security Part 1 (Attacks & Vulnerabilities)](https://payatu.com/blog/automotive-attacks/)
+
+[Automotive Security – Part 1 (101 – Automotive Security Introduction)](https://payatu.com/blog/automotive-security-part-1-2/)
+
+[Automotive Security – Part 2 (101 – Automotive Attack Surface)](https://payatu.com/blog/automotive-security-part2/)
+
+[Automotive Security – Part 3 (Intro To CAN Bus Protocol – 101)](https://payatu.com/blog/automotive-security-part3/)
+
+[Automotive Security – Part 4 (What Is OBD-II ?)](https://payatu.com/blog/automotive-security-part4/)
+
 [Car Hijacking Swapping a single Bit](https://www.synacktiv.com/en/publications/car-hijacking-swapping-a-single-bit.html)
 
 [Car Infotainment Hacking Methodology and Attack Surface Scenario](https://www.youtube.com/watch?v=F0mYkI2FJ_4)
