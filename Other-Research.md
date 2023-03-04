@@ -14,9 +14,13 @@
 
 [Getting started with the "Chinese" Proxmark3](https://jg.sn.sg/pm3/)
 
+[Hacking a cheap LED voltmeter](https://ba0sh1.com/2013/07/26/hacking-a-cheap-led-voltmeter/)
+
 [Hacking the NDP Pixmob bands - How I got the LED band to run my code](https://jg.sn.sg/ndp-pixmob-1/)
 
 [How to get Data off an Embedded System: FatFS with USB MSD Host and FreeRTOS Direct Task Notification](https://mcuoneclipse.com/2020/06/14/how-to-get-data-off-an-embedded-system-fatfs-with-usb-msd-host-and-freertos-direct-task-notification/)
+
+[PCB Business/Name Card](https://yeokhengmeng.com/2015/09/pcb-businessname-card/)
 
 [Recovering bricked LPC55Sxx EVK Boards](https://mcuoneclipse.com/2022/03/10/recovering-bricked-lpc55sxx-evk-boards/)
 
