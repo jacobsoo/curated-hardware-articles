@@ -39,7 +39,6 @@
 - [Repurposing e-waste: turning a TV set-top box into a Linux computer](https://zeus.ugent.be/blog/22-23/repurposing_ewaste/)
 - [Resurrecting ‘bricked’ NXP Kinetis Devices](https://mcuoneclipse.com/2022/06/16/resurrecting-bricked-nxp-kinetis-devices/)
 - [Retro LED Displays](https://irq5.io/2016/10/12/retro-led-displays/)
-- [Setting Up a Zigbee Sensor Network](https://irq5.io/2022/01/04/setting-up-a-zigbee-sensor-network/)
 - [Standalone and Command Line Programmer with MCUXpresso](https://mcuoneclipse.com/2020/12/05/standalone-and-command-line-programmer-with-mcuxpresso/)
 - [Stealing the Bitlocker key from a TPM](https://astralvx.com/stealing-the-bitlocker-key-from-a-tpm/)
 - [TAPing the Stack for Fun and Profit: Shelling Embedded Linux Devices via JTAG](https://labs.ioactive.com/2021/01/taping-stack-for-fun-and-profit.html)
