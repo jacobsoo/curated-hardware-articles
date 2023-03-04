@@ -1,77 +1,56 @@
 # Other Research
+- [Hacking](#hacking)
+- [Hardware Analysis](#hardware-analysis)
+- [Others](#others)
 
-[Cloud-Enabling a Bathroom Scale](https://irq5.io/2014/09/25/cloud-enabling-a-bathroom-scale/)
 
-[Controlling my A/C with a Gameboy](https://jg.sn.sg/ir/)
+# Hacking
+- [Hacking a cheap LED voltmeter](https://ba0sh1.com/2013/07/26/hacking-a-cheap-led-voltmeter/)
+- [Hacking a Roku TV to Control Lights](https://blog.ammaraskar.com/roku-tv-philips-hues/)
+- [Hacking eInk Price Tags](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
+- [Hacking the NDP Pixmob bands - How I got the LED band to run my code](https://jg.sn.sg/ndp-pixmob-1/)
 
-[Custom Firmware for the Xiaomi AX3600 Wireless Router](https://irq5.io/2020/08/10/custom-firmware-for-the-xiaomi-ax3600-wireless-router/)
+# Hardware Analysis
+- [BasicFUN Series Part 1: Hardware Analysis / SPI Flash Extraction](https://wrongbaud.github.io/posts/BasicFUN-flashing/)
+- [BasicFUN Series Part 2: Reverse Engineering Firmware / Reflashing SPI Flash](https://wrongbaud.github.io/posts/BasicFUN-rom-analysis/)
+- [BasicFUN Series Part 3: Dumping Parallel Flash via I2C I/O Expanders](https://wrongbaud.github.io/posts/MK-Teardown/)
+- [BasicFUN Series Part 4: I2C Sniffing, EEPROM Extraction and Parallel Flash Extraction](https://wrongbaud.github.io/posts/Holiday-Teardown/)
+- [Hardware Debugging for Reverse Engineers Part 1: SWD, OpenOCD and Xbox One Controllers](https://wrongbaud.github.io/posts/stm-xbox-jtag/)
+- [Hardware Debugging for Reverse Engineers Part 2: JTAG, SSDs and Firmware Extraction](https://wrongbaud.github.io/posts/jtag-hdd/)
+- [Router Analysis Part 1: UART Discovery and SPI Flash Extraction](https://wrongbaud.github.io/posts/router-teardown/)
 
-[Debug Firmware Switching for the LPC4322](https://mcuoneclipse.com/2021/04/05/debug-firmware-switching-for-the-lpc4322/)
-
-[Decapping ICs with Sulphuric Acid](https://jg.sn.sg/decap/)
-
-[Defeating wireless fixed code systems with just US$23](https://jg.sn.sg/fc-cc/)
-
-[DIY Portable Video Conference, Sharing and Teaching Device](https://mcuoneclipse.com/2020/08/07/diy-portable-video-conference-sharing-and-teaching-device/)
-
-[Dumping the Sonos One Smart Speaker](https://www.synacktiv.com/en/publications/dumping-the-sonos-one-smart-speaker.html)
-
-[E-ink Maiden Bring your Reader to the Reverser](https://www.synacktiv.com/en/publications/e-ink-maiden-bring-your-reader-to-the-reverser.html)
-
-[Enter the EFM32 Gecko](https://limitedresults.com/2021/06/enter-the-efm32-gecko/)
-
-[Flip-Dot Clock using Used Bus Parts](https://mcuoneclipse.com/2021/06/01/flip-dot-clock-using-used-bus-parts/)
-
-[Getting started with the "Chinese" Proxmark3](https://jg.sn.sg/pm3/)
-
-[Hacking a cheap LED voltmeter](https://ba0sh1.com/2013/07/26/hacking-a-cheap-led-voltmeter/)
-
-[Hacking a Roku TV to Control Lights](https://blog.ammaraskar.com/roku-tv-philips-hues/)
-
-[Hacking eInk Price Tags](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
-
-[Hacking the NDP Pixmob bands - How I got the LED band to run my code](https://jg.sn.sg/ndp-pixmob-1/)
-
-[Hardware Investigation of Wireless Keyloggers](https://www.synacktiv.com/en/publications/hardware-investigation-of-wireless-keyloggers.html)
-
-[How to get Data off an Embedded System: FatFS with USB MSD Host and FreeRTOS Direct Task Notification](https://mcuoneclipse.com/2020/06/14/how-to-get-data-off-an-embedded-system-fatfs-with-usb-msd-host-and-freertos-direct-task-notification/)
-
-[Hunting Mobile Devices Endpoints the RF and the hard way](https://www.synacktiv.com/en/publications/hunting-mobile-devices-endpoints-the-rf-and-the-hard-way.html)
-
-[Making USBasp Chinese Clones Usable](https://irq5.io/2017/07/25/making-usbasp-chinese-clones-usable/)
-
-[PCB Business/Name Card](https://yeokhengmeng.com/2015/09/pcb-businessname-card/)
-
-[Recovering bricked LPC55Sxx EVK Boards](https://mcuoneclipse.com/2022/03/10/recovering-bricked-lpc55sxx-evk-boards/)
-
-[Recovering Cortex-M Microcontroller with a Power Glitch](https://mcuoneclipse.com/2021/05/20/recovering-cortex-m-microcontroller-with-a-power-glitch/)
-
-[Repurposing e-waste: turning a TV set-top box into a Linux computer](https://zeus.ugent.be/blog/22-23/repurposing_ewaste/)
-
-[Resurrecting ‘bricked’ NXP Kinetis Devices](https://mcuoneclipse.com/2022/06/16/resurrecting-bricked-nxp-kinetis-devices/)
-
-[Retro LED Displays](https://irq5.io/2016/10/12/retro-led-displays/)
-
-[Setting Up a Zigbee Sensor Network](https://irq5.io/2022/01/04/setting-up-a-zigbee-sensor-network/)
-
-[Standalone and Command Line Programmer with MCUXpresso](https://mcuoneclipse.com/2020/12/05/standalone-and-command-line-programmer-with-mcuxpresso/)
-
-[Stealing the Bitlocker key from a TPM](https://astralvx.com/stealing-the-bitlocker-key-from-a-tpm/)
-
-[The PocketGlitcher](https://limitedresults.com/2021/03/the-pocketglitcher/)
-
-[There oughta be an automated dehumidifier.](https://there.oughta.be/an/automated-dehumidifier)
-
-[There oughta be a Game Boy capture cartridge.](https://there.oughta.be/a/game-boy-capture-cartridge)
-
-[There oughta be a macro keyboard.](https://there.oughta.be/a/macro-keyboard)
-
-[There oughta be a smart doorbell.](https://there.oughta.be/a/smart-doorbell)
-
-[There oughta be a smart garage door.](https://there.oughta.be/a/smart-garage-door)
-
-[USB-C done cheap: when 2 ports become 1](https://richardg867.wordpress.com/2020/02/29/usb-c-done-cheap/)
-
-[Using eInk display with LPC55S69 and OKdo E1 board](https://mcuoneclipse.com/2020/07/15/using-eink-display-with-lpc55s69-and-okdo-e1-board/)
-
-[Using U2F for Door Access Control Systems](https://irq5.io/2021/07/02/using-u2f-for-door-access-control-systems/)
+# Others
+- [Cloud-Enabling a Bathroom Scale](https://irq5.io/2014/09/25/cloud-enabling-a-bathroom-scale/)
+- [Controlling my A/C with a Gameboy](https://jg.sn.sg/ir/)
+- [Custom Firmware for the Xiaomi AX3600 Wireless Router](https://irq5.io/2020/08/10/custom-firmware-for-the-xiaomi-ax3600-wireless-router/)
+- [Debug Firmware Switching for the LPC4322](https://mcuoneclipse.com/2021/04/05/debug-firmware-switching-for-the-lpc4322/)
+- [Decapping ICs with Sulphuric Acid](https://jg.sn.sg/decap/)
+- [Defeating wireless fixed code systems with just US$23](https://jg.sn.sg/fc-cc/)
+- [DIY Portable Video Conference, Sharing and Teaching Device](https://mcuoneclipse.com/2020/08/07/diy-portable-video-conference-sharing-and-teaching-device/)
+- [Dumping the Sonos One Smart Speaker](https://www.synacktiv.com/en/publications/dumping-the-sonos-one-smart-speaker.html)
+- [E-ink Maiden Bring your Reader to the Reverser](https://www.synacktiv.com/en/publications/e-ink-maiden-bring-your-reader-to-the-reverser.html)
+- [Enter the EFM32 Gecko](https://limitedresults.com/2021/06/enter-the-efm32-gecko/)
+- [Flip-Dot Clock using Used Bus Parts](https://mcuoneclipse.com/2021/06/01/flip-dot-clock-using-used-bus-parts/)
+- [Getting started with the "Chinese" Proxmark3](https://jg.sn.sg/pm3/)
+- [Hardware Investigation of Wireless Keyloggers](https://www.synacktiv.com/en/publications/hardware-investigation-of-wireless-keyloggers.html)
+- [How to get Data off an Embedded System: FatFS with USB MSD Host and FreeRTOS Direct Task Notification](https://mcuoneclipse.com/2020/06/14/how-to-get-data-off-an-embedded-system-fatfs-with-usb-msd-host-and-freertos-direct-task-notification/)
+- [Hunting Mobile Devices Endpoints the RF and the hard way](https://www.synacktiv.com/en/publications/hunting-mobile-devices-endpoints-the-rf-and-the-hard-way.html)
+- [Making USBasp Chinese Clones Usable](https://irq5.io/2017/07/25/making-usbasp-chinese-clones-usable/)
+- [PCB Business/Name Card](https://yeokhengmeng.com/2015/09/pcb-businessname-card/)
+- [Recovering bricked LPC55Sxx EVK Boards](https://mcuoneclipse.com/2022/03/10/recovering-bricked-lpc55sxx-evk-boards/)
+- [Recovering Cortex-M Microcontroller with a Power Glitch](https://mcuoneclipse.com/2021/05/20/recovering-cortex-m-microcontroller-with-a-power-glitch/)
+- [Repurposing e-waste: turning a TV set-top box into a Linux computer](https://zeus.ugent.be/blog/22-23/repurposing_ewaste/)
+- [Resurrecting ‘bricked’ NXP Kinetis Devices](https://mcuoneclipse.com/2022/06/16/resurrecting-bricked-nxp-kinetis-devices/)
+- [Retro LED Displays](https://irq5.io/2016/10/12/retro-led-displays/)
+- [Setting Up a Zigbee Sensor Network](https://irq5.io/2022/01/04/setting-up-a-zigbee-sensor-network/)
+- [Standalone and Command Line Programmer with MCUXpresso](https://mcuoneclipse.com/2020/12/05/standalone-and-command-line-programmer-with-mcuxpresso/)
+- [Stealing the Bitlocker key from a TPM](https://astralvx.com/stealing-the-bitlocker-key-from-a-tpm/)
+- [The PocketGlitcher](https://limitedresults.com/2021/03/the-pocketglitcher/)
+- [There oughta be an automated dehumidifier.](https://there.oughta.be/an/automated-dehumidifier)
+- [There oughta be a Game Boy capture cartridge.](https://there.oughta.be/a/game-boy-capture-cartridge)
+- [There oughta be a macro keyboard.](https://there.oughta.be/a/macro-keyboard)
+- [There oughta be a smart doorbell.](https://there.oughta.be/a/smart-doorbell)
+- [There oughta be a smart garage door.](https://there.oughta.be/a/smart-garage-door)
+- [USB-C done cheap: when 2 ports become 1](https://richardg867.wordpress.com/2020/02/29/usb-c-done-cheap/)
+- [Using eInk display with LPC55S69 and OKdo E1 board](https://mcuoneclipse.com/2020/07/15/using-eink-display-with-lpc55s69-and-okdo-e1-board/)
+- [Using U2F for Door Access Control Systems](https://irq5.io/2021/07/02/using-u2f-for-door-access-control-systems/)
