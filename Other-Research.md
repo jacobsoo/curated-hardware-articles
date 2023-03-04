@@ -34,6 +34,8 @@
 
 [Hunting Mobile Devices Endpoints the RF and the hard way](https://www.synacktiv.com/en/publications/hunting-mobile-devices-endpoints-the-rf-and-the-hard-way.html)
 
+[Making USBasp Chinese Clones Usable](https://irq5.io/2017/07/25/making-usbasp-chinese-clones-usable/)
+
 [PCB Business/Name Card](https://yeokhengmeng.com/2015/09/pcb-businessname-card/)
 
 [Recovering bricked LPC55Sxx EVK Boards](https://mcuoneclipse.com/2022/03/10/recovering-bricked-lpc55sxx-evk-boards/)
@@ -43,6 +45,8 @@
 [Repurposing e-waste: turning a TV set-top box into a Linux computer](https://zeus.ugent.be/blog/22-23/repurposing_ewaste/)
 
 [Resurrecting ‘bricked’ NXP Kinetis Devices](https://mcuoneclipse.com/2022/06/16/resurrecting-bricked-nxp-kinetis-devices/)
+
+[Retro LED Displays](https://irq5.io/2016/10/12/retro-led-displays/)
 
 [Setting Up a Zigbee Sensor Network](https://irq5.io/2022/01/04/setting-up-a-zigbee-sensor-network/)
 
