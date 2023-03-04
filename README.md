@@ -25,6 +25,7 @@ If you enjoy this list in this repo and would like to support it, help to contri
 - [nRF52](./nRF52.md)
 - [Reverse Engineering](./Reverse-Engineering.md)
 - [RF Articles](./RF%20Articles.md)
+- [Satellite](./Satellite.md)
 - [Zigbee](./Zigbee.md)
 
 
