@@ -1,10 +1,14 @@
 # Hardware Teardown
 
+[CY-20 Cheap Flash Teardown](https://irq5.io/2013/06/10/cy-20-cheap-flash-teardown/)
+
 [DME Theory and Teardown of Narco DME 890](https://yeokhengmeng.com/2021/07/dme-theory-and-teardown-of-narco-dme-890/)
 
 [iCopy-X Teardown](https://github.com/iCopy-X-Community/icopyx-teardown)
 
 [Mini Cheetah Clone Teardown](https://build-its-inprogress.blogspot.com/2022/11/mini-cheetah-clone-teardown.html)
+
+[ONV PD3401G PoE Splitter Teardown & Review](https://irq5.io/2019/04/02/onv-pd3401g-poe-splitter-teardown-review/)
 
 [Radar Theory and Tteardown of Aircraft Transponder RT-459A](https://yeokhengmeng.com/2020/06/radar-theory-and-teardown-of-aircraft-transponder-rt-459a/)
 
