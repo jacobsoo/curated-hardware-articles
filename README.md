@@ -8,6 +8,8 @@ If you enjoy this list in this repo and would like to support it, help to contri
 
 ## Hardware Research
 
+[Car Research](./Car-Research.md)
+
 [DMA Attacks](./DMA-Attacks.md)
 
 [Hardware Teardown](./Hardware-Teardown.md)
