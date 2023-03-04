@@ -36,12 +36,12 @@ If you enjoy this list in this repo and would like to support it, help to contri
 
 
 # Vulnerabilities
-- [CDATA](./CDATA.md)
+- [CDATA Vulnerabilities](./CDATA.md)
 - [D-Link Vulnerabilities](./D-Link%20Vulnerabilities.md)
-- [FiberHome](./FiberHome.md)
+- [FiberHome Vulnerabilities](./FiberHome.md)
 - [Netcomm Vulnerabilities](./Netcomm-Vulnerabilities.md)
 - [Netgear Vulnerabilities](./Netgear%20Vulnerabilities.md)
 - [TP-Link Vulnerabilities](./TP-Link%20Vulnerabilities.md)
 - [Tuya Vulnerabilities](./Tuya%20Vulnerabilities.md)
 - [Xiaomi Vulnerabilities](./Xiaomi%20Vulnerabilities.md)
-- [Zyxel](./Zyxel.md)
+- [Zyxel Vulnerabilities](./Zyxel.md)
