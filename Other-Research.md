@@ -37,6 +37,7 @@
 - [Probing and Signal Integrity Fundamentals for the Hardware Hacker, part 2: Transmission Lines, Impedance, and Stubs](https://labs.ioactive.com/2021/02/probing-and-signal-integrity.html)
 - [Recovering bricked LPC55Sxx EVK Boards](https://mcuoneclipse.com/2022/03/10/recovering-bricked-lpc55sxx-evk-boards/)
 - [Recovering Cortex-M Microcontroller with a Power Glitch](https://mcuoneclipse.com/2021/05/20/recovering-cortex-m-microcontroller-with-a-power-glitch/)
+- [Replicant: Reproducing a Fault Injection Attack on the Trezor One](https://voidstarsec.com/blog/replicant-part-1)
 - [Repurposing e-waste: turning a TV set-top box into a Linux computer](https://zeus.ugent.be/blog/22-23/repurposing_ewaste/)
 - [Resurrecting ‘bricked’ NXP Kinetis Devices](https://mcuoneclipse.com/2022/06/16/resurrecting-bricked-nxp-kinetis-devices/)
 - [Retro LED Displays](https://irq5.io/2016/10/12/retro-led-displays/)
