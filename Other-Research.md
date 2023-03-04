@@ -38,6 +38,8 @@
 
 [Recovering Cortex-M Microcontroller with a Power Glitch](https://mcuoneclipse.com/2021/05/20/recovering-cortex-m-microcontroller-with-a-power-glitch/)
 
+[Repurposing e-waste: turning a TV set-top box into a Linux computer](https://zeus.ugent.be/blog/22-23/repurposing_ewaste/)
+
 [Resurrecting ‘bricked’ NXP Kinetis Devices](https://mcuoneclipse.com/2022/06/16/resurrecting-bricked-nxp-kinetis-devices/)
 
 [Standalone and Command Line Programmer with MCUXpresso](https://mcuoneclipse.com/2020/12/05/standalone-and-command-line-programmer-with-mcuxpresso/)
