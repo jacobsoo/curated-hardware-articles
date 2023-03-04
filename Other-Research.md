@@ -20,6 +20,8 @@
 
 [Hacking a cheap LED voltmeter](https://ba0sh1.com/2013/07/26/hacking-a-cheap-led-voltmeter/)
 
+[Hacking a Roku TV to Control Lights](https://blog.ammaraskar.com/roku-tv-philips-hues/)
+
 [Hacking eInk Price Tags](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
 
 [Hacking the NDP Pixmob bands - How I got the LED band to run my code](https://jg.sn.sg/ndp-pixmob-1/)
@@ -39,6 +41,8 @@
 [Resurrecting ‘bricked’ NXP Kinetis Devices](https://mcuoneclipse.com/2022/06/16/resurrecting-bricked-nxp-kinetis-devices/)
 
 [Standalone and Command Line Programmer with MCUXpresso](https://mcuoneclipse.com/2020/12/05/standalone-and-command-line-programmer-with-mcuxpresso/)
+
+[Stealing the Bitlocker key from a TPM](https://astralvx.com/stealing-the-bitlocker-key-from-a-tpm/)
 
 [There oughta be an automated dehumidifier.](https://there.oughta.be/an/automated-dehumidifier)
 
