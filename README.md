@@ -4,10 +4,11 @@
 ---
 
 If you enjoy this list in this repo and would like to support it, help to contribute more.
+---
 
 
 ## Hardware Research
-
+---
 [Car Research](./Car-Research.md)
 
 [DMA Attacks](./DMA-Attacks.md)
@@ -23,10 +24,11 @@ If you enjoy this list in this repo and would like to support it, help to contri
 [RF Articles](./RF%20Articles.md)
 
 [Zigbee](./Zigbee.md)
+---
 
 
 ## Vulnerabilities
-
+---
 [D-Link Vulnerabilities](./D-Link%20Vulnerabilities.md)
 
 [Netcomm Vulnerabilities](./Netcomm-Vulnerabilities.md)
