@@ -10,6 +10,10 @@
 
 [DIY Portable Video Conference, Sharing and Teaching Device](https://mcuoneclipse.com/2020/08/07/diy-portable-video-conference-sharing-and-teaching-device/)
 
+[Dumping the Sonos One Smart Speaker](https://www.synacktiv.com/en/publications/dumping-the-sonos-one-smart-speaker.html)
+
+[E-ink Maiden Bring your Reader to the Reverser](https://www.synacktiv.com/en/publications/e-ink-maiden-bring-your-reader-to-the-reverser.html)
+
 [Flip-Dot Clock using Used Bus Parts](https://mcuoneclipse.com/2021/06/01/flip-dot-clock-using-used-bus-parts/)
 
 [Getting started with the "Chinese" Proxmark3](https://jg.sn.sg/pm3/)
@@ -21,6 +25,8 @@
 [Hardware Investigation of Wireless Keyloggers](https://www.synacktiv.com/en/publications/hardware-investigation-of-wireless-keyloggers.html)
 
 [How to get Data off an Embedded System: FatFS with USB MSD Host and FreeRTOS Direct Task Notification](https://mcuoneclipse.com/2020/06/14/how-to-get-data-off-an-embedded-system-fatfs-with-usb-msd-host-and-freertos-direct-task-notification/)
+
+[Hunting Mobile Devices Endpoints the RF and the hard way](https://www.synacktiv.com/en/publications/hunting-mobile-devices-endpoints-the-rf-and-the-hard-way.html)
 
 [PCB Business/Name Card](https://yeokhengmeng.com/2015/09/pcb-businessname-card/)
 
