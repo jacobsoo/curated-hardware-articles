@@ -6,9 +6,12 @@
 If you enjoy this list in this repo and would like to support it, help to contribute more.
 ---
 
+# Contents
+- [Hardware Research](#hardware-research)
+- [Vulnerabilities](#vulnerabilities)
 
-## Hardware Research
----
+# Hardware Research
+
 [Car Research](./Car-Research.md)
 
 [DMA Attacks](./DMA-Attacks.md)
@@ -27,8 +30,8 @@ If you enjoy this list in this repo and would like to support it, help to contri
 ---
 
 
-## Vulnerabilities
----
+# Vulnerabilities
+
 [D-Link Vulnerabilities](./D-Link%20Vulnerabilities.md)
 
 [Netcomm Vulnerabilities](./Netcomm-Vulnerabilities.md)
