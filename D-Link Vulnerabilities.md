@@ -10,4 +10,4 @@
 
 [Security Advisories: D-Link DSL-2640B](https://raelize.com/blog/d-link-dsl-2640b-security-advisories/)
 
-[ZDI-21-977] D-Link DAP-2020 webproc Stack-based BOF RCE](https://ctrsec.io/research/2021/08/21/zdi-21-977-d-link-dap-2020-webproc-stack-based-bof-rce.html)
+[[ZDI-21-977] D-Link DAP-2020 webproc Stack-based BOF RCE](https://ctrsec.io/research/2021/08/21/zdi-21-977-d-link-dap-2020-webproc-stack-based-bof-rce.html)
