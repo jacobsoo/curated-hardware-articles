@@ -43,6 +43,7 @@ If you enjoy this list in this repo and would like to support it, help to contri
 - [Netcomm Vulnerabilities](./Netcomm-Vulnerabilities.md)
 - [Netgear Vulnerabilities](./Netgear%20Vulnerabilities.md)
 - [Quanta Vulnerabilities](./Quanta.md)
+- [Siemens Vulnerabilities](./Siemens.md)
 - [TOTOLINK Vulnerabilities](./TOTOLINK.md)
 - [TP-Link Vulnerabilities](./TP-Link%20Vulnerabilities.md)
 - [Tuya Vulnerabilities](./Tuya%20Vulnerabilities.md)
