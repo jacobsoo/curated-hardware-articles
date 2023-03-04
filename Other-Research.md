@@ -11,6 +11,7 @@
 
 
 # Others
+- [Breaking Electronic Baggage Tags - Lufthansa vs British Airways](https://labs.ioactive.com/2020/09/breaking-electronic-baggage-tags.html)
 - [Cloud-Enabling a Bathroom Scale](https://irq5.io/2014/09/25/cloud-enabling-a-bathroom-scale/)
 - [Controlling my A/C with a Gameboy](https://jg.sn.sg/ir/)
 - [Custom Firmware for the Xiaomi AX3600 Wireless Router](https://irq5.io/2020/08/10/custom-firmware-for-the-xiaomi-ax3600-wireless-router/)
@@ -45,3 +46,6 @@
 - [USB-C done cheap: when 2 ports become 1](https://richardg867.wordpress.com/2020/02/29/usb-c-done-cheap/)
 - [Using eInk display with LPC55S69 and OKdo E1 board](https://mcuoneclipse.com/2020/07/15/using-eink-display-with-lpc55s69-and-okdo-e1-board/)
 - [Using U2F for Door Access Control Systems](https://irq5.io/2021/07/02/using-u2f-for-door-access-control-systems/)
+- [When Athletic Abilities Just Aren't Enough - Scoreboard Hacking Part 1](https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Signal-Analysis-Part-1)
+- [When Athletic Abilities Just Aren't Enough - Scoreboard Hacking Part 2](https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Part-2)
+- [When Athletic Abilities Just Aren't Enough - Scoreboard Hacking Part 3](https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Part-3)
