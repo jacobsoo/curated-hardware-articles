@@ -1,6 +1,5 @@
 # Other Research
 - [Hacking](#hacking)
-- [Hardware Analysis](#hardware-analysis)
 - [Others](#others)
 
 
@@ -10,14 +9,6 @@
 - [Hacking eInk Price Tags](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
 - [Hacking the NDP Pixmob bands - How I got the LED band to run my code](https://jg.sn.sg/ndp-pixmob-1/)
 
-# Hardware Analysis
-- [BasicFUN Series Part 1: Hardware Analysis / SPI Flash Extraction](https://wrongbaud.github.io/posts/BasicFUN-flashing/)
-- [BasicFUN Series Part 2: Reverse Engineering Firmware / Reflashing SPI Flash](https://wrongbaud.github.io/posts/BasicFUN-rom-analysis/)
-- [BasicFUN Series Part 3: Dumping Parallel Flash via I2C I/O Expanders](https://wrongbaud.github.io/posts/MK-Teardown/)
-- [BasicFUN Series Part 4: I2C Sniffing, EEPROM Extraction and Parallel Flash Extraction](https://wrongbaud.github.io/posts/Holiday-Teardown/)
-- [Hardware Debugging for Reverse Engineers Part 1: SWD, OpenOCD and Xbox One Controllers](https://wrongbaud.github.io/posts/stm-xbox-jtag/)
-- [Hardware Debugging for Reverse Engineers Part 2: JTAG, SSDs and Firmware Extraction](https://wrongbaud.github.io/posts/jtag-hdd/)
-- [Router Analysis Part 1: UART Discovery and SPI Flash Extraction](https://wrongbaud.github.io/posts/router-teardown/)
 
 # Others
 - [Cloud-Enabling a Bathroom Scale](https://irq5.io/2014/09/25/cloud-enabling-a-bathroom-scale/)
