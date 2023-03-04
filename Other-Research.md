@@ -11,6 +11,9 @@
 
 
 # Others
+- [A journey into defeating regulated electronic cigarette protections](https://labs.ioactive.com/2020/10/a-journey-into-defeating-regulated.html)
+- [A Practical Approach To Attacking IoT Embedded Designs (I)](https://labs.ioactive.com/2021/02/a-practical-approach-to-attacking-iot.html)
+- [A Practical Approach to Attacking IoT Embedded Designs (II)](https://labs.ioactive.com/2021/02/a-practical-approach-to-attacking-iot_23.html)
 - [Breaking Electronic Baggage Tags - Lufthansa vs British Airways](https://labs.ioactive.com/2020/09/breaking-electronic-baggage-tags.html)
 - [Cloud-Enabling a Bathroom Scale](https://irq5.io/2014/09/25/cloud-enabling-a-bathroom-scale/)
 - [Controlling my A/C with a Gameboy](https://jg.sn.sg/ir/)
@@ -29,6 +32,8 @@
 - [Hunting Mobile Devices Endpoints the RF and the hard way](https://www.synacktiv.com/en/publications/hunting-mobile-devices-endpoints-the-rf-and-the-hard-way.html)
 - [Making USBasp Chinese Clones Usable](https://irq5.io/2017/07/25/making-usbasp-chinese-clones-usable/)
 - [PCB Business/Name Card](https://yeokhengmeng.com/2015/09/pcb-businessname-card/)
+- [Probing and Signal Integrity Fundamentals for the Hardware Hacker](https://labs.ioactive.com/2021/01/probing-and-signal-integrity.html)
+- [Probing and Signal Integrity Fundamentals for the Hardware Hacker, part 2: Transmission Lines, Impedance, and Stubs](https://labs.ioactive.com/2021/02/probing-and-signal-integrity.html)
 - [Recovering bricked LPC55Sxx EVK Boards](https://mcuoneclipse.com/2022/03/10/recovering-bricked-lpc55sxx-evk-boards/)
 - [Recovering Cortex-M Microcontroller with a Power Glitch](https://mcuoneclipse.com/2021/05/20/recovering-cortex-m-microcontroller-with-a-power-glitch/)
 - [Repurposing e-waste: turning a TV set-top box into a Linux computer](https://zeus.ugent.be/blog/22-23/repurposing_ewaste/)
@@ -37,6 +42,7 @@
 - [Setting Up a Zigbee Sensor Network](https://irq5.io/2022/01/04/setting-up-a-zigbee-sensor-network/)
 - [Standalone and Command Line Programmer with MCUXpresso](https://mcuoneclipse.com/2020/12/05/standalone-and-command-line-programmer-with-mcuxpresso/)
 - [Stealing the Bitlocker key from a TPM](https://astralvx.com/stealing-the-bitlocker-key-from-a-tpm/)
+- [TAPing the Stack for Fun and Profit: Shelling Embedded Linux Devices via JTAG](https://labs.ioactive.com/2021/01/taping-stack-for-fun-and-profit.html)
 - [The PocketGlitcher](https://limitedresults.com/2021/03/the-pocketglitcher/)
 - [There oughta be an automated dehumidifier.](https://there.oughta.be/an/automated-dehumidifier)
 - [There oughta be a Game Boy capture cartridge.](https://there.oughta.be/a/game-boy-capture-cartridge)
@@ -46,6 +52,7 @@
 - [USB-C done cheap: when 2 ports become 1](https://richardg867.wordpress.com/2020/02/29/usb-c-done-cheap/)
 - [Using eInk display with LPC55S69 and OKdo E1 board](https://mcuoneclipse.com/2020/07/15/using-eink-display-with-lpc55s69-and-okdo-e1-board/)
 - [Using U2F for Door Access Control Systems](https://irq5.io/2021/07/02/using-u2f-for-door-access-control-systems/)
+- [Watch Your Step: Research Into the Concrete Effects of Fault Injection on Processor State via Single-Step Debugging](https://labs.ioactive.com/2021/04/watch-your-step-research-into-concrete.html)
 - [When Athletic Abilities Just Aren't Enough - Scoreboard Hacking Part 1](https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Signal-Analysis-Part-1)
 - [When Athletic Abilities Just Aren't Enough - Scoreboard Hacking Part 2](https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Part-2)
 - [When Athletic Abilities Just Aren't Enough - Scoreboard Hacking Part 3](https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Part-3)
