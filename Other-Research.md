@@ -15,6 +15,7 @@
 - [A Practical Approach To Attacking IoT Embedded Designs (I)](https://labs.ioactive.com/2021/02/a-practical-approach-to-attacking-iot.html)
 - [A Practical Approach to Attacking IoT Embedded Designs (II)](https://labs.ioactive.com/2021/02/a-practical-approach-to-attacking-iot_23.html)
 - [Breaking Electronic Baggage Tags - Lufthansa vs British Airways](https://labs.ioactive.com/2020/09/breaking-electronic-baggage-tags.html)
+- [Bypassing the Renesas RH850/P1M-E read protection using fault injection](https://blog.willemmelching.nl/carhacking/2022/11/08/rh850-glitch/)
 - [Cloud-Enabling a Bathroom Scale](https://irq5.io/2014/09/25/cloud-enabling-a-bathroom-scale/)
 - [Controlling my A/C with a Gameboy](https://jg.sn.sg/ir/)
 - [Custom Firmware for the Xiaomi AX3600 Wireless Router](https://irq5.io/2020/08/10/custom-firmware-for-the-xiaomi-ax3600-wireless-router/)
