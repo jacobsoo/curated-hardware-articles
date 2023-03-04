@@ -18,6 +18,8 @@
 
 [Hacking the NDP Pixmob bands - How I got the LED band to run my code](https://jg.sn.sg/ndp-pixmob-1/)
 
+[Hardware Investigation of Wireless Keyloggers](https://www.synacktiv.com/en/publications/hardware-investigation-of-wireless-keyloggers.html)
+
 [How to get Data off an Embedded System: FatFS with USB MSD Host and FreeRTOS Direct Task Notification](https://mcuoneclipse.com/2020/06/14/how-to-get-data-off-an-embedded-system-fatfs-with-usb-msd-host-and-freertos-direct-task-notification/)
 
 [PCB Business/Name Card](https://yeokhengmeng.com/2015/09/pcb-businessname-card/)
