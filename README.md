@@ -17,4 +17,6 @@ If you enjoy this list in this repo and would like to support it, help to contri
 
 ## Vulnerabilities
 
+[Netcomm Vulnerabilities](./Netcomm-Vulnerabilities.md)
+
 [TP-Link Vulnerabilities](./TP-Link%20Vulnerabilities.md)
