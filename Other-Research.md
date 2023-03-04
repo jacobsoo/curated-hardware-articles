@@ -58,6 +58,8 @@
 
 [Stealing the Bitlocker key from a TPM](https://astralvx.com/stealing-the-bitlocker-key-from-a-tpm/)
 
+[The PocketGlitcher](https://limitedresults.com/2021/03/the-pocketglitcher/)
+
 [There oughta be an automated dehumidifier.](https://there.oughta.be/an/automated-dehumidifier)
 
 [There oughta be a Game Boy capture cartridge.](https://there.oughta.be/a/game-boy-capture-cartridge)
