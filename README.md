@@ -39,6 +39,7 @@ If you enjoy this list in this repo and would like to support it, help to contri
 - [CDATA Vulnerabilities](./CDATA.md)
 - [D-Link Vulnerabilities](./D-Link%20Vulnerabilities.md)
 - [FiberHome Vulnerabilities](./FiberHome.md)
+- [ipTIME Vulnerabilities](./ipTIME.md)
 - [Netcomm Vulnerabilities](./Netcomm-Vulnerabilities.md)
 - [Netgear Vulnerabilities](./Netgear%20Vulnerabilities.md)
 - [TOTOLINK Vulnerabilities](./TOTOLINK.md)
