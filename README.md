@@ -41,6 +41,7 @@ If you enjoy this list in this repo and would like to support it, help to contri
 - [FiberHome Vulnerabilities](./FiberHome.md)
 - [Netcomm Vulnerabilities](./Netcomm-Vulnerabilities.md)
 - [Netgear Vulnerabilities](./Netgear%20Vulnerabilities.md)
+- [TOTOLINK Vulnerabilities](./TOTOLINK.md)
 - [TP-Link Vulnerabilities](./TP-Link%20Vulnerabilities.md)
 - [Tuya Vulnerabilities](./Tuya%20Vulnerabilities.md)
 - [Xiaomi Vulnerabilities](./Xiaomi%20Vulnerabilities.md)
