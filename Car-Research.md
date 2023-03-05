@@ -3,6 +3,7 @@
 - [BMW](#bmw)
 - [Lexus](#lexus)
 - [Mercedes Benz](#mercedes-benz)
+- [Subaru](#subaru)
 - [Tesla](#tesla)
 - [Volkswagen](#volkswagen)
 
@@ -32,6 +33,11 @@
 # Mercedes Benz
 - [Security Research Report on Mercedes Benz Cars](https://skygo.360.net/archive/Security-Research-Report-on-Mercedes-Benz-Cars-en.pdf)
 - [Tencent Security Keen Lab: Experimental Security Assessment of Mercedes-Benz Cars](https://keenlab.tencent.com/en/2021/05/12/Tencent-Security-Keen-Lab-Experimental-Security-Assessment-on-Mercedes-Benz-Cars/)
+
+
+# Subaru
+- [Hide Yo Keys, Hide Yo Car - Remotely Exploiting Connected Vehicle APIs and Apps](https://static1.squarespace.com/static/59c4375b8a02c798d1cce06f/t/59c508dbf14aa10585d06b9e/1506085122500/2017-44con.pdf)
+- [Hijack a subaru's key fob and steal all the things](https://github.com/tomwimmenhove/subarufobrob)
 
 
 # Tesla
