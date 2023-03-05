@@ -30,6 +30,7 @@
 
 
 # Mercedes Benz
+- [Security Research Report on Mercedes Benz Cars](https://skygo.360.net/archive/Security-Research-Report-on-Mercedes-Benz-Cars-en.pdf)
 - [Tencent Security Keen Lab: Experimental Security Assessment of Mercedes-Benz Cars](https://keenlab.tencent.com/en/2021/05/12/Tencent-Security-Keen-Lab-Experimental-Security-Assessment-on-Mercedes-Benz-Cars/)
 
 
