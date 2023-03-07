@@ -1,5 +1,7 @@
 # Coffee Machine Hacking
 - [Exploiting the Nespresso smart cards for fun and p̶r̶o̶f̶i̶t̶  coffee](https://pollevanhoof.be/nuggets/smart_cards/nespresso)
+- [Gravimetric espresso mod – project updates #1](https://kopiaddict.com/2016/10/02/gravimetric-espresso-mod-project-updates/)
+- [Gravimetric espresso mod – project updates #2](https://kopiaddict.com/2017/10/28/gravimetric-espresso-mod-project-updates-2/)
 - [Hacking Bluetooth to Brew Coffee on Github actions Part 1](https://grack.com/blog/2022/12/01/hacking-bluetooth-to-brew-coffee-on-github-actions-part-1/)
 - [Hacking Bluetooth to Brew Coffee on Github actions Part 2](https://grack.com/blog/2022/12/02/hacking-bluetooth-to-brew-coffee-on-github-actions-part-2/)
 - [Hacking Bluetooth to Brew Coffee on Github actions Part 3](https://grack.com/blog/2022/12/04/hacking-bluetooth-to-brew-coffee-on-github-actions-part-3/)
