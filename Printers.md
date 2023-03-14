@@ -1,0 +1,10 @@
+# Printers Research
+- [Pwn2Own 2021 Canon ImageCLASS MF644Cdw writeup](https://doar-e.github.io/blog/2022/06/11/pwn2own-2021-canon-imageclass-mf644cdw-writeup/)
+- [The Printer Goes BRRRRR!!!](https://www.synacktiv.com/en/publications/the-printer-goes-brrrrr.html)
+- [Treasure Chest Party Quest: From DOOM To Exploit](https://www.synacktiv.com/publications/treasure-chest-party-quest-from-doom-to-exploit.html)
+- [Unpacking HP Firmware Updates – Part 1](https://www.jsof-tech.com/unpacking-hp-firmware-updates-part-1/)
+- [Unpacking HP Firmware Updates – Part 2](https://www.jsof-tech.com/unpacking-hp-firmware-updates-part-2/)
+- [Unpacking HP Firmware Updates – Part 3](https://www.jsof-tech.com/unpacking-hp-firmware-updates-part-3/)
+- [Unpacking HP Firmware Updates – Part 4](https://www.jsof-tech.com/unpacking-hp-firmware-updates-part-4/)
+- [With Great Research Comes Great Responsibility: Printing SHELLZ](https://labs.withsecure.com/content/dam/labs/docs/Printing-Shellz.pdf)
+- [Your printer is not your printer ! - Hacking Printers at Pwn2Own](https://hitcon.org/2022/slides/Your%20Printer%20is%20not%20your%20Printer%20!%20-%20Hacking%20Printers%20at%20Pwn2Own.pdf)
