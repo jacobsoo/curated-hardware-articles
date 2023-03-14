@@ -35,7 +35,6 @@
 - [Decapping ICs with Sulphuric Acid](https://jg.sn.sg/decap/)
 - [Defeating wireless fixed code systems with just US$23](https://jg.sn.sg/fc-cc/)
 - [DIY Portable Video Conference, Sharing and Teaching Device](https://mcuoneclipse.com/2020/08/07/diy-portable-video-conference-sharing-and-teaching-device/)
-- [Dumping the Sonos One Smart Speaker](https://www.synacktiv.com/en/publications/dumping-the-sonos-one-smart-speaker.html)
 - [Enter the EFM32 Gecko](https://limitedresults.com/2021/06/enter-the-efm32-gecko/)
 - [Flip-Dot Clock using Used Bus Parts](https://mcuoneclipse.com/2021/06/01/flip-dot-clock-using-used-bus-parts/)
 - [Getting started with the "Chinese" Proxmark3](https://jg.sn.sg/pm3/)
