@@ -1,6 +1,7 @@
 # Smart Speakers Research
 - [A journey to pwn and own the Sonos One Speaker](https://www.synacktiv.com/sites/default/files/2022-11/sonos.pdf)
 - [Breaking Google Home: Exploit It with SQLite(Magellan)](https://media.defcon.org/DEF%20CON%2027/DEF%20CON%2027%20presentations/DEFCON-27-Wenxiang-Qian-Yuxiang-Li-Huiyu-Wu-Breaking-Google-Home-Exploit-It-with-SQLite-Magellan.pdf)
+- [Breaking Secure Boot on Google Nest Hub (2nd Gen) to run Ubuntu](https://fredericb.info/2022/06/breaking-secure-boot-on-google-nest-hub-2nd-gen-to-run-ubuntu.html)
 - [Dumping the Sonos One Smart Speaker](https://www.synacktiv.com/en/publications/dumping-the-sonos-one-smart-speaker.html)
 - [Google Home Mini teardown, comparison to Echo Dot, and giving technology a voice](https://justlv.medium.com/google-home-mini-teardown-comparison-to-echo-dot-and-giving-technology-a-voice-c59a23724a26)
 - [Running Custom Code on a Google Home Mini (Part 1)](https://courk.cc/running-custom-code-google-home-mini-part1)
