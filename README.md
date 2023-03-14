@@ -42,6 +42,7 @@ If you enjoy this list in this repo and would like to support it, help to contri
 - [ipTIME Vulnerabilities](./ipTIME.md)
 - [Netcomm Vulnerabilities](./Netcomm-Vulnerabilities.md)
 - [Netgear Vulnerabilities](./Netgear%20Vulnerabilities.md)
+- [Nokia Vulnerabilities](./Nokia Vulnerabilities.md)
 - [Quanta Vulnerabilities](./Quanta.md)
 - [Siemens Vulnerabilities](./Siemens.md)
 - [TOTOLINK Vulnerabilities](./TOTOLINK.md)
