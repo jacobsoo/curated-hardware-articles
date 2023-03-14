@@ -10,6 +10,7 @@ If you enjoy this list in this repo and would like to support it, help to contri
 - [Hardware Analysis](#hardware-analysis)
 - [Hardware Research](#hardware-research)
 - [Other Research](#other-research)
+- [Printer Research](#printer-research)
 - [Vulnerabilities](#vulnerabilities)
 
 
