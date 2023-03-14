@@ -11,6 +11,7 @@ If you enjoy this list in this repo and would like to support it, help to contri
 - [Hardware Research](#hardware-research)
 - [Other Research](#other-research)
 - [Printer Research](#printer-research)
+- [Smart Speakers Research](#smart-speakers-research)
 - [Vulnerabilities](#vulnerabilities)
 
 
@@ -38,6 +39,10 @@ If you enjoy this list in this repo and would like to support it, help to contri
 
 # Printers Research
 - [Printers Research](./Printers.md)
+
+
+# Smart Speakers Research
+- [Smart Speakers Research](./Smart-Speakers-Research.md)
 
 
 # Vulnerabilities
