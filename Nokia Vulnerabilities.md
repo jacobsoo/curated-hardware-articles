@@ -1,4 +1,4 @@
-# Nokia
+# Nokia Vulnerabilities
 - [Hacking the Nokia Fastmile: Part 1](https://eddiez.me/hacking-the-nokia-fastmile/)
 - [Hacking the Nokia Fastmile: Part 2](https://eddiez.me/hacking-the-nokia-fastmile-pt2/)
 - [Hacking the Nokia Fastmile: Part 3](https://eddiez.me/hacking-the-nokia-fastmile-pt3/)
