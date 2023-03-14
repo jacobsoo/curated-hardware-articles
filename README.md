@@ -7,6 +7,8 @@ If you enjoy this list in this repo and would like to support it, help to contri
 ---
 
 # Contents
+- [Car Research](#car-research)
+- [Coffee Machine Hacking](#coffee-machine-hacking)
 - [Hardware Analysis](#hardware-analysis)
 - [Hardware Research](#hardware-research)
 - [Other Research](#other-research)
@@ -15,13 +17,19 @@ If you enjoy this list in this repo and would like to support it, help to contri
 - [Vulnerabilities](#vulnerabilities)
 
 
+# Car Research
+- [Car Research](./Car-Research.md)
+
+
+# Coffee Machine Hacking
+- [Coffee Machine Hacking](./coffee-machine-hacking.md)
+
+
 # Hardware Analysis
 - [Hardware Analysis](./Hardware%20Analysis.md)
 
 
 # Hardware Research
-- [Car Research](./Car-Research.md)
-- [Coffee Machine Hacking](./coffee-machine-hacking.md)
 - [DMA Attacks](./DMA-Attacks.md)
 - [E-Ink](./e-ink.md)
 - [Espressif](./Espressif.md)
