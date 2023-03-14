@@ -25,6 +25,7 @@
 - [A journey into defeating regulated electronic cigarette protections](https://labs.ioactive.com/2020/10/a-journey-into-defeating-regulated.html)
 - [A Practical Approach To Attacking IoT Embedded Designs (I)](https://labs.ioactive.com/2021/02/a-practical-approach-to-attacking-iot.html)
 - [A Practical Approach to Attacking IoT Embedded Designs (II)](https://labs.ioactive.com/2021/02/a-practical-approach-to-attacking-iot_23.html)
+- [Booting Ubuntu on Google Chromecast With Google TV](https://fredericb.info/2021/11/booting-ubuntu-on-google-chromecast-with-google-tv.html)
 - [Breaking Electronic Baggage Tags - Lufthansa vs British Airways](https://labs.ioactive.com/2020/09/breaking-electronic-baggage-tags.html)
 - [Bypassing the Renesas RH850/P1M-E read protection using fault injection](https://blog.willemmelching.nl/carhacking/2022/11/08/rh850-glitch/)
 - [Clocks in digital circuits](https://lcamtuf.substack.com/p/clocks-in-digital-circuits)
