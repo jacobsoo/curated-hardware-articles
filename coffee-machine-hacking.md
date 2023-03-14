@@ -6,6 +6,7 @@
 - [Hacking Bluetooth to Brew Coffee on Github actions Part 2](https://grack.com/blog/2022/12/02/hacking-bluetooth-to-brew-coffee-on-github-actions-part-2/)
 - [Hacking Bluetooth to Brew Coffee on Github actions Part 3](https://grack.com/blog/2022/12/04/hacking-bluetooth-to-brew-coffee-on-github-actions-part-3/)
 - [How to hack your coffee machine to serve you via WiFi](https://www.danielbiegler.de/blog/how-to-hack-your-coffee-machine-to-serve-you-via-wifi/)
+- [How We Hacked Our Coffee Machine with JavaScript](https://dkundel.com/blog/how-we-hacked-our-coffee-machine-with-javascript/)
 - [Nespresso Expert machine Hack (Bluetooth)](https://gist.github.com/farminf/94f681eaca2760212f457ac59da99f23)
 - [Philips 3200 Coffee Machine - part 1](https://hackcorrelation.blogspot.com/2021/05/philips-3200-coffee-machine-part-1.html)
 - [Reversing the Smarter Coffee IoT machine protocol to make coffee using terminal](https://www.evilsocket.net/2016/10/09/IoCOFFEE-Reversing-the-Smarter-Coffee-IoT-machine-protocol-to-make-coffee-using-terminal/)
