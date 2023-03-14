@@ -35,6 +35,10 @@ If you enjoy this list in this repo and would like to support it, help to contri
 - [Other Research](./Other-Research.md)
 
 
+# Printers Research
+- [Printers Research](./Printers.md)
+
+
 # Vulnerabilities
 - [CDATA Vulnerabilities](./CDATA.md)
 - [D-Link Vulnerabilities](./D-Link%20Vulnerabilities.md)
