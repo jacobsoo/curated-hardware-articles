@@ -16,6 +16,7 @@
 - [Automotive Security – Part 4 (What Is OBD-II ?)](https://payatu.com/blog/automotive-security-part4/)
 - [Car Hijacking Swapping a single Bit](https://www.synacktiv.com/en/publications/car-hijacking-swapping-a-single-bit.html)
 - [Car Infotainment Hacking Methodology and Attack Surface Scenario](https://www.youtube.com/watch?v=F0mYkI2FJ_4)
+- [Controlling an EV Charger with Modbus RTU](https://mcuoneclipse.com/2022/12/31/controlling-an-ev-charger-with-modbus-rtu/)
 - [Drive It Like You Hacked It](https://samy.pl/defcon2015/)
 - [Introduction to Car Hacking: The CAN Bus](https://www.offsec.com/offsec/introduction-to-car-hacking-the-can-bus/)
 - [Pentesting vehicles with YACHT (Yet Another Car Hacking Tool)](https://www.blackhat.com/docs/eu-16/materials/eu-16-Sintsov-Pen-Testing-Vehicles-With-Cantoolz.pdf)
