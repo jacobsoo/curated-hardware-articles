@@ -41,7 +41,6 @@
 - [Getting started with the "Chinese" Proxmark3](https://jg.sn.sg/pm3/)
 - [Hardware Investigation of Wireless Keyloggers](https://www.synacktiv.com/en/publications/hardware-investigation-of-wireless-keyloggers.html)
 - [How to get Data off an Embedded System: FatFS with USB MSD Host and FreeRTOS Direct Task Notification](https://mcuoneclipse.com/2020/06/14/how-to-get-data-off-an-embedded-system-fatfs-with-usb-msd-host-and-freertos-direct-task-notification/)
-- [How We Hacked Our Coffee Machine with JavaScript](https://dkundel.com/blog/how-we-hacked-our-coffee-machine-with-javascript/)
 - [Hunting Mobile Devices Endpoints the RF and the hard way](https://www.synacktiv.com/en/publications/hunting-mobile-devices-endpoints-the-rf-and-the-hard-way.html)
 - [Infra-Red, In Situ (IRIS) Inspection of Silicon](https://www.bunniestudios.com/blog/?p=6712)
 - [Making USBasp Chinese Clones Usable](https://irq5.io/2017/07/25/making-usbasp-chinese-clones-usable/)
