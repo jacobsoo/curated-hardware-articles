@@ -72,4 +72,5 @@ If you enjoy this list in this repo and would like to support it, help to contri
 - [TP-Link Vulnerabilities](./TP-Link%20Vulnerabilities.md)
 - [Tuya Vulnerabilities](./Tuya%20Vulnerabilities.md)
 - [Xiaomi Vulnerabilities](./Xiaomi%20Vulnerabilities.md)
+- [ZTE Vulnerabilities](./ZTE%20Vulnerabilities.md)
 - [Zyxel Vulnerabilities](./Zyxel.md)
