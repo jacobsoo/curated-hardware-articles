@@ -1,6 +1,7 @@
 # Fortinet
 - [Analysis of FG-IR-22-369](https://www.fortinet.com/blog/psirt-blogs/fg-ir-22-369-psirt-analysis)
 - [Analysis of FG-IR-22-398 – FortiOS - heap-based buffer overflow in SSLVPNd](https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd)
+- [Attacking SSL VPN - Part 2: Breaking the Fortigate SSL VPN](https://devco.re/blog/2019/08/09/attacking-ssl-vpn-part-2-breaking-the-Fortigate-ssl-vpn/)
 - [[CVE-2021-22123] Fortinet FortiWeb Authenticated OS Command Injection](https://github.com/murataydemir/CVE-2021-22123)
 - [CVE-2023-25610 a critical RCE vulnerability in FortiOS: everything you need to know](https://www.wiz.io/blog/cve-2023-25610)
 - [Fortigate - Authentication Bypass Lead to Full Device Takeover](https://labs.hakaioffsec.com/fortigate-authentication-bypass/)
