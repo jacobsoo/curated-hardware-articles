@@ -66,6 +66,7 @@
 - [There oughta be a smart garage door.](https://there.oughta.be/a/smart-garage-door)
 - [USB-C done cheap: when 2 ports become 1](https://richardg867.wordpress.com/2020/02/29/usb-c-done-cheap/)
 - [Using U2F for Door Access Control Systems](https://irq5.io/2021/07/02/using-u2f-for-door-access-control-systems/)
+- [Vulnerabilities in BMC Firmware Affect OT/IoT Device Security – Part 1](https://www.nozominetworks.com/blog/vulnerabilities-in-bmc-firmware-affect-ot-iot-device-security-part-1/)
 - [Watch Your Step: Research Into the Concrete Effects of Fault Injection on Processor State via Single-Step Debugging](https://labs.ioactive.com/2021/04/watch-your-step-research-into-concrete.html)
 - [When Athletic Abilities Just Aren't Enough - Scoreboard Hacking Part 1](https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Signal-Analysis-Part-1)
 - [When Athletic Abilities Just Aren't Enough - Scoreboard Hacking Part 2](https://maxwelldulin.com/BlogPost/Scoreboard-Hacking-Part-2)
