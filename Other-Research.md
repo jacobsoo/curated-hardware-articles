@@ -20,6 +20,10 @@
 - [MCU land, part 8: DMA bit-vending machines](https://lcamtuf.substack.com/p/mcu-land-part-8-dma-bit-vending-machines)
 - [Designing your own PCBs](https://lcamtuf.substack.com/p/designing-your-own-pcbs)
 
+# OT
+- [Extract Firmware from OT Devices for Vulnerability Research](https://www.nozominetworks.com/blog/extract-firmware-from-ot-devices-for-vulnerability-research/)
+- [Methods for Extracting Firmware from OT Devices for Vulnerability Research](https://www.nozominetworks.com/blog/methods-for-extracting-firmware-from-ot-devices-for-vulnerability-research/)
+
 # Others
 - [Afternoon project: CryptMaster 2001](https://lcamtuf.substack.com/p/afternoon-project-cryptmaster-2001)
 - [A journey into defeating regulated electronic cigarette protections](https://labs.ioactive.com/2020/10/a-journey-into-defeating-regulated.html)
