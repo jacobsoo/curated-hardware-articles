@@ -1,2 +1,10 @@
 # Drone Research
+- [DJI ANDROID GO 4 APPLICATION SECURITY ANALYSIS](https://www.synacktiv.com/en/publications/dji-android-go-4-application-security-analysis.html)
 - [DJI Mavic 3 Drone Research Part 1: Firmware Analysis](https://www.nozominetworks.com/blog/dji-mavic-3-drone-research-part-1-firmware-analysis/)
+- [DJI Privacy Analysis Validation](https://blog.grimm-co.com/2020/07/dji-privacy-analysis-validation.html)
+- [Drone Security and the Mysterious Case of DJI's DroneID](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f217_paper.pdf)
+- [Drone-ID Receiver for DJI OcuSync 2.0](https://github.com/RUB-SysSec/DroneSecurity)
+- [Exploiting the LW9621 Drone Camera Module](https://medium.com/@meekworth/exploiting-the-lw9621-drone-camera-module-773f00081368)
+- [Force1 Discovery WiFi U818A FPV Drone Exploitation](https://1af95112-6fd8-4c8f-8bd6-c47f8ef7b77a.filesusr.com/ugd/c1f861_51eb0d33d5764efc93e9d5f19c306950.pdf)
+- [Hacking a Professional Drone](https://www.blackhat.com/docs/asia-16/materials/asia-16-Rodday-Hacking-A-Professional-Drone.pdf)
+- [Reverse-engineering a Drone Camera Module](https://medium.com/@meekworth/reverse-engineering-a-drone-camera-module-a17f7b6cdc04)
