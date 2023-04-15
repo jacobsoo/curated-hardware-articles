@@ -66,6 +66,7 @@ If you enjoy this list in this repo and would like to support it, help to contri
 # Vulnerabilities
 - [CDATA Vulnerabilities](./CDATA.md)
 - [D-Link Vulnerabilities](./D-Link%20Vulnerabilities.md)
+- [Dahua Vulnerabilities](./Dahua%20Vulnerabilities.md)
 - [FiberHome Vulnerabilities](./FiberHome.md)
 - [Fortinet Vulnerabilities](./Fortinet%20Vulnerabilities.md)
 - [ipTIME Vulnerabilities](./ipTIME.md)
